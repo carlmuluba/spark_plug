@@ -1,0 +1,149 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-12-20 20:02+0100\n"
+"PO-Revision-Date: 2011-12-20 20:02-0000\n"
+"Last-Translator: Carlos Muluba <muluba@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+
+#: \views\elements\layout\header.ctp:5
+#, fuzzy
+msgid "Login"
+msgstr "Nome do utilizador"
+
+#: \views\elements\layout\header.ctp:6
+#, fuzzy
+msgid "Register"
+msgstr "Registrarse"
+
+#: \views\elements\layout\header.ctp:9
+msgid "User Management"
+msgstr "Administrar utilizadores"
+
+#: \views\elements\layout\header.ctp:17
+#: \views\elements\layout\logged_in_menu.default.ctp:6
+#, fuzzy
+msgid "Home"
+msgstr "Início"
+
+#: \views\elements\layout\logged_in_menu.default.ctp:9
+#: \views\users\dashboard.ctp:11
+msgid "Change Password"
+msgstr "Mudar a Palavra Passe"
+
+#: \views\elements\layout\logged_in_menu.default.ctp:12
+msgid "Disconnect"
+msgstr "Encerrar a Seção"
+
+#: \views\user_group_permissions\index.ctp:1
+msgid "New User Group Permission"
+msgstr "Nova Permissão"
+
+#: \views\user_group_permissions\index.ctp:12
+#: \views\users\index.ctp:15
+msgid "Actions"
+msgstr "Ações"
+
+#: \views\user_group_permissions\index.ctp:39
+#: \views\users\index.ctp:51
+msgid "Edit"
+msgstr "Editar"
+
+#: \views\user_group_permissions\index.ctp:40
+#: \views\users\index.ctp:52
+msgid "Delete"
+msgstr "Apagar"
+
+#: \views\user_group_permissions\index.ctp:40
+#: \views\users\index.ctp:52
+msgid "Are you sure you want to delete # %s?"
+msgstr "Tem a certeza que deseja apagar # %s ?"
+
+#: \views\user_group_permissions\index.ctp:48
+#: \views\users\index.ctp:60
+msgid "previous"
+msgstr "anterior"
+
+#: \views\user_group_permissions\index.ctp:50
+#: \views\users\index.ctp:62
+msgid "next"
+msgstr "siguinte"
+
+#: \views\users\dashboard.ctp:1
+msgid "Welcome"
+msgstr "Benvindo"
+
+#: \views\users\dashboard.ctp:2
+msgid "Please select below"
+msgstr "Escolha a opção"
+
+#: \views\users\dashboard.ctp:5
+msgid "Manage Users"
+msgstr "Administrar Utilizadores"
+
+#: \views\users\dashboard.ctp:8
+msgid "Manage Permissions"
+msgstr "Administrar Permissões"
+
+#: \views\users\dashboard.ctp:12
+msgid "Logout"
+msgstr "Sair"
+
+#: \views\users\login.ctp:1
+msgid "Login your username and password"
+msgstr "Introduza o nome de utilizador e palavra passe"
+
+#: \views\users\login.ctp:3
+#, fuzzy
+msgid "username"
+msgstr "Nome de utilizador"
+
+#: \views\users\login.ctp:4
+#, fuzzy
+msgid "password"
+msgstr "Palavra Passe"
+
+#: \views\users\login.ctp:5
+msgid "Remember me for 2 weeks"
+msgstr "Lembrar-me por 2 semanas"
+
+#: \views\users\login.ctp:6
+#, fuzzy
+msgid "Submit"
+msgstr "Submeter"
+
+#: \views\users\login.ctp:9
+msgid "Not registered yet?"
+msgstr "Ainda não está registado?"
+
+#: \views\users\login.ctp:9
+msgid "Click Here"
+msgstr "Click Aquí"
+
+#: \views\users\login.ctp:11
+msgid "Forgot your password?"
+msgstr "Esqueceu a palavra passe?"
+
+msgid "This field cannot be left blank"
+msgstr "Este campo tem de ser preenchido"
+
+msgid "User Registration"
+msgstr "Registo de Utilizador"
+
+msgid "confirm password"
+msgstr "Confirmar a palavra passe"
+
+msgid "Already registered ?"
+msgstr "Já se encontra registado?"
+
+msgid "Login Here"
+msgstr "Aceda aquí"
+
